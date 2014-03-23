@@ -1,0 +1,34 @@
+Sat, 22-Mar-2014- 05:29:54 am - $types parameter of set_file_types in /Applications/MAMP/htdocs/izphp/file_upload/IZPHPcore.php on line 136 is not correct or sent empty.
+Fri, 21-Mar-2014- 23:53:19 pm - Some error in /Applications/MAMP/htdocs/izphp/file_upload/IZPHPcore.php on line 219
+Fri, 21-Mar-2014- 23:53:19 pm - Some error in /Applications/MAMP/htdocs/izphp/file_upload/IZPHPcore.php on line 219
+Fri, 21-Mar-2014- 23:50:23 pm - Some error in /Applications/MAMP/htdocs/izphp/file_upload/IZPHPcore.php on line 219
+Fri, 21-Mar-2014- 23:50:23 pm - Some error in /Applications/MAMP/htdocs/izphp/file_upload/IZPHPcore.php on line 219
+Fri, 21-Mar-2014- 22:43:05 pm - Some error in /Applications/MAMP/htdocs/izphp/file_upload/IZPHPcore.php on line 214
+Fri, 21-Mar-2014- 22:43:05 pm - Some error in /Applications/MAMP/htdocs/izphp/file_upload/IZPHPcore.php on line 214
+Fri, 21-Mar-2014- 22:11:48 pm - Some error in /Applications/MAMP/htdocs/izphp/file_upload/IZPHPcore.php on line 169
+Fri, 21-Mar-2014- 22:11:48 pm - Some error in /Applications/MAMP/htdocs/izphp/file_upload/IZPHPcore.php on line 169
+Fri, 21-Mar-2014- 22:02:35 pm - Some error in /Applications/MAMP/htdocs/izphp/file_upload/IZPHPcore.php on line 219
+Fri, 21-Mar-2014- 22:02:35 pm - Some error in /Applications/MAMP/htdocs/izphp/file_upload/IZPHPcore.php on line 219
+Fri, 21-Mar-2014- 21:55:30 pm - Some error in /Applications/MAMP/htdocs/izphp/file_upload/IZPHPcore.php on line 240
+Fri, 21-Mar-2014- 21:55:30 pm - Some error in /Applications/MAMP/htdocs/izphp/file_upload/IZPHPcore.php on line 240
+Fri, 21-Mar-2014- 21:42:09 pm - Some error in /Applications/MAMP/htdocs/izphp/file_upload/IZPHPcore.php on line 230
+Fri, 21-Mar-2014- 21:42:09 pm - Some error in /Applications/MAMP/htdocs/izphp/file_upload/IZPHPcore.php on line 230
+Fri, 21-Mar-2014- 21:42:02 pm - Some error in /Applications/MAMP/htdocs/izphp/file_upload/IZPHPcore.php on line 230
+Fri, 21-Mar-2014- 21:42:02 pm - Some error in /Applications/MAMP/htdocs/izphp/file_upload/IZPHPcore.php on line 230
+Fri, 21-Mar-2014- 21:40:40 pm - Some error in /Applications/MAMP/htdocs/izphp/file_upload/IZPHPcore.php on line 230
+Fri, 21-Mar-2014- 21:40:40 pm - Some error in /Applications/MAMP/htdocs/izphp/file_upload/IZPHPcore.php on line 230
+Fri, 21-Mar-2014- 21:37:33 pm - Some error in IZPHPcore.php on line 229
+Fri, 21-Mar-2014- 21:37:33 pm - Some error in IZPHPcore.php on line 229
+Fri, 21-Mar-2014- 21:37:31 pm - Some error in IZPHPcore.php on line 229
+Fri, 21-Mar-2014- 21:37:31 pm - Some error in IZPHPcore.php on line 229
+Fri, 21-Mar-2014- 21:37:20 pm - Some error in IZPHPcore.php on line 229
+Fri, 21-Mar-2014- 21:37:20 pm - Some error in IZPHPcore.php on line 229
+Fri, 21-Mar-2014- 21:37:05 pm - Some error in IZPHPcore.php on line 229
+Fri, 21-Mar-2014- 21:37:05 pm - Some error in IZPHPcore.php on line 229
+Fri, 21-Mar-2014- 21:37:03 pm - Some error in IZPHPcore.php on line 229
+Fri, 21-Mar-2014- 21:37:03 pm - Some error in IZPHPcore.php on line 229
+Fri, 21-Mar-2014- 21:29:32 pm - 1
+Fri, 21-Mar-2014- 21:35:57 pm - Some error in IZPHPcore.php on line 229
+Fri, 21-Mar-2014- 21:35:57 pm - Some error in IZPHPcore.php on line 229
+Fri, 21-Mar-2014- 21:36:01 pm - Some error in IZPHPcore.php on line 229
+Fri, 21-Mar-2014- 21:36:01 pm - Some error in IZPHPcore.php on line 229
